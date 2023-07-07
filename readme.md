@@ -4,8 +4,8 @@ do npm install on root for backend
 do npm run dev to run in development 
 
 do cd frontend
-do npm install
-run react code
+do npm install to install modules
+run npm start to run  react code
 
 connect to mongodb locally or atlas
 
